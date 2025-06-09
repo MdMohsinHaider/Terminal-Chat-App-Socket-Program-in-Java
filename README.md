@@ -1,8 +1,6 @@
 # Terminal-Chat-App-Socket-Program-in-Java
-Sockets are the fundamental building blocks for network communication. They act as endpoints for data exchange between two programs.
-# Chat Application README
 
-This README provides a basic overview of building a simple chat application using Java. It follows a client-server architecture and utilizes sockets and threads for communication.
+This README provides a basic overview of building a simple chat application using Java. It follows a client-server architecture and utilizes sockets and threads for communication. Sockets are the fundamental building blocks for network communication. They act as endpoints for data exchange between two programs.
 
 ---
 
